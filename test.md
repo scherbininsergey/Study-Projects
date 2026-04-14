@@ -44,7 +44,7 @@
 
 ```mermaid
 stateDiagram-v2
-    direction LR
+    direction TB
 
     %% Начальное состояние
     [*] --> S0
